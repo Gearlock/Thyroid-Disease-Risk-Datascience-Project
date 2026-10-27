@@ -10,6 +10,13 @@
 
 This project primarily aims to find how data science and machine learning techniques can be applied to the medical domain to better understand and predict thyroid disease risk. The first objective is to analyze thyroid disease risk datasets to identify which patient attributes are most strongly associated with a disease and to understand how these relationships in the dataset vary across different demographic groups. The second objective is to develop a machine learning model that can predict thyroid disease risk using relevant features from the datasets.
 
+### Datasets
+https://archive.ics.uci.edu/dataset/102/thyroid+disease 
+To view the dataset we'll be using for this project download it from the link above. Extract the zip file and look for allhypo.data, allhypo.test. The names file for allhypo describes the data and test.
+
+https://www.kaggle.com/datasets/yasserhessein/thyroid-disease-data-set/data
+This is a publicly available version of the dataset imputed using KNN with N = 5.
+
 ### Project Timeline
 
 | Time Period | Planned Work |
