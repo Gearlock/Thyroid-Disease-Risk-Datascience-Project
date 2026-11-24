@@ -1,0 +1,1 @@
+Please add the names and links of the datasets you're using, and check that they come from reliable, real-world sources. Explain how you plan to combine data from different sources, and be more specific about what exactly you're predicting. For your second goal, make sure to compare patients with and without the disease so you can see which factors truly matter.
